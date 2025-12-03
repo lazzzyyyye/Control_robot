@@ -1,0 +1,117 @@
+{
+    "robot": "mycobot_single",
+    "save_path": "./datasets/",
+    "task_name": "test",
+    "save_format": "hdf5",
+    "save_freq": 10,
+    "left_arm": [
+        "joint",
+        "qpos",
+        "timestamp"
+    ],
+    "cam_head": [
+        "color",
+        "timestamp"
+    ],
+    "avg_time_interval": [
+        0.10934782608693121,
+        0.11014999999970314,
+        0.11021052631564855,
+        0.11372222222255207,
+        0.10938888888954858,
+        0.11,
+        0.10937931034453052,
+        0.10936986301365398,
+        0.109375,
+        0.10937209302311773,
+        0.10938383838383559,
+        0.10940000000009605,
+        0.10924999999997453,
+        0.10940000000009605,
+        0.1092000000000553
+    ],
+    "arm": [
+        "left_arm",
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ],
+        [
+            "left_arm"
+        ]
+    ],
+    "image": [
+        "cam_head",
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ],
+        [
+            "cam_head"
+        ]
+    ]
+}
